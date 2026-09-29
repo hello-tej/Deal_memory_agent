@@ -133,7 +133,7 @@ The LLM didn't get smarter. **The context did.**
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/dealmemory.git
+git clone https://github.com/YOUR_USERNAME/https://github.com/hello-tej/Deal_memory_agent.git
 cd dealmemory
 
 # Virtual environment
